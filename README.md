@@ -1,6 +1,6 @@
 # Vaccine Statistic Visualizer
 
-A program that generates charts displaying the progression of administerd vaccines during the pandemic
+A program that generates charts displaying the progression of administered vaccines during the pandemic
 
 ## Functions
 
